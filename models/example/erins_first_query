@@ -1,0 +1,1 @@
+select * from "DATAIKU"."PUBLIC"."Customerinsights_v9_demoOFFLINE_TRANSACTIONS_ENRICHED" limit 10

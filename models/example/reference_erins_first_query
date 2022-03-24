@@ -1,0 +1,3 @@
+select *
+from {{ ref('erins_first_query') }}
+where SALES_VALUE >3
